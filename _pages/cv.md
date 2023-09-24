@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Computer Science, University of Hamburg, 2024 (expected)
+* B.S. in Computer Engineering, Ferdowsi University of Mashhad, 2022
 
-Work experience
+Research and work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Researcher and Developer, AI Planning with PDDL in Production Networks [Dec 2022 – Present]
+  * Hamburger Informatik Technologie-Center (HITeC)
+    
+* Research Assistant, Computer Vision with Deep Neural Networks [July 2020 – July 2022]
+  * Under Supervision of Prof. Yazdi
+ 
+* Participation in the Tuberculosis Task of ImageCLEF 2021 [Feb 2021 – May 2021]
+  * Under Supervision of Prof. Müller
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant, Cooperating on Various Robotic Projects [Sep 2019 - Sep 2020]
+    * Robotics Lab, Ferdowsi University of Mashhad
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: Python, Java, C/C++, HTML/CSS, Planning Domain Definition Language (PDDL)
+* Frameworks: Pytorch, Keras, Tensorflow, Django, QT
+* Developer Tools: Colab, Git, Jupiter, VS Code, Pycharm, IntelliJ
 
 Publications
 ======
@@ -42,18 +40,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Languages
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* English (C1)
+* German (B1)
+* Persian (Nativ)
   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
