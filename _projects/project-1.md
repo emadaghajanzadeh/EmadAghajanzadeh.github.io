@@ -2,7 +2,7 @@
 title: "Project item number 1"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: project
-image: "/images/500x300.png"
+image: "/images/project1.png"
 keywords: "keyword1, keyword2"
 ---
 
