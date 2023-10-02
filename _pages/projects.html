@@ -33,6 +33,7 @@ author_profile: true
     </div>
     <div class="right">
       <img src="{{ post.image }}" alt="{{ post.title }} Image">
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     </div>
   </div>
 
