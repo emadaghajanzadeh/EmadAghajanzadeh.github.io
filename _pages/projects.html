@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.projects %}
-  hi
+  {{post.title}}
+  {{post.excerpt}}
+  {{post.collection}}
   {% include archive-single.html %}
 {% endfor %}
