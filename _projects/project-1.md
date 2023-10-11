@@ -1,6 +1,5 @@
 ---
 title: "MLP functions as Kmeans algorithm"
-excerpt: "Short description of MLP functions as Kmeans algorithm <br/><img src='/images/MLP_kmeans.png'>"
 collection: project
 image: "/images/project_1.png"
 keywords: "Multi-layer Perceptron - Kmeans - Python - Keras"
