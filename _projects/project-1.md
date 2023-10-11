@@ -1,10 +1,9 @@
 ---
-title: "Project item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "MLP functions as Kmeans algorithm"
+excerpt: "Short description of MLP functions as Kmeans algorithm <br/><img src='/images/MLP_kmeans.png'>"
 collection: project
 image: "/images/project_1.png"
-keywords: "keyword1, keyword2"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+keywords: "Multi-layer Perceptron - Kmeans - Python - Keras"
+description: "This project was taken as homework in the course of Computational Intelligence. The goal of the project was to simulate the function of the Kmeans algorithm by a multi-layer perceptron and showing how the perceptron is able to compensate for the drawbacks of the Kmeans algorithm. To simulate the process of Kmeans with the perceptron, I only entered the center of each cluster into the learning phase of perceptron, and then once an epoch ended, the evaluation was done over the whole data points and clusters changed. This process was continued until the convergence (a simple threshold on the number of changes). Finally, the efficiency of the method observed was shown and investigated how the proposed combined method showed better performance."
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
