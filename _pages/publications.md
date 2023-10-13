@@ -4,28 +4,30 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-.container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-}
-.publication {
-    background-color: #fff;
-    border: 1px solid #ddd;
-    padding: 20px;
-    margin-bottom: 20px;
-    border-radius: 5px;
-}
 
-.publication h2 {
-    margin: 0;
-    cursor: pointer; /* Make the title a pointer to indicate it's clickable */
-    color: #007BFF; /* Change the color to indicate it's a link */
-}
-.publication p {
-    font-style: italic;
-}
-
+<style>
+            .container {
+                        max-width: 800px;
+                        margin: 0 auto;
+                        padding: 20px;
+            }
+            .publication {
+                background-color: #fff;
+                border: 1px solid #ddd;
+                padding: 20px;
+                margin-bottom: 20px;
+                border-radius: 5px;
+            }
+            
+            .publication h2 {
+                margin: 0;
+                cursor: pointer; /* Make the title a pointer to indicate it's clickable */
+                color: #007BFF; /* Change the color to indicate it's a link */
+            }
+            .publication p {
+                font-style: italic;
+            }
+</style>
 
 {% include base_path %}
 
