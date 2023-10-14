@@ -2,7 +2,7 @@
 title: "Classification of Tuberculosis Type on CT Scans of Lungs using a fusion of 2D and 3D Deep Convolutional Neural Networks."
 Authors: "Emad Aghajanzadeh, Behzad Shomali, Diba Aminshahidi, Navid Ghassemi"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/Tuberculosis
 date: 2021
 venue: 'Conference and Labs of the Evaluation Forum, September 21–24, 2021, Bucharest, Romania'
 paperurl: 'https://ceur-ws.org/Vol-2936/paper-91.pdf'
