@@ -33,14 +33,14 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   <div class="container">
-             <h2>{{ post.title }}</h2>
         <div class="publication">
-            <div class="abstract" id="abstract1">
-                <p>Abstract: {{post.abstract}} </p>
-            </div>
+            <h2>{{ post.title }}</h2>
             <p>Author(s): {{post.Authors}}</p>
             <p>Published in: {{post.venue}}</p>
             <p>Date: {{post.date}}</p>
+            <div class="abstract" id="abstract1">
+                <p>Abstract: {{post.abstract}} </p>
+            </div>
         </div>
   </div>
 {% endfor %}
