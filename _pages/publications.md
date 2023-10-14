@@ -36,11 +36,11 @@ author_profile: true
              <h2>{{ post.title }}</h2>
         <div class="publication">
             <div class="abstract" id="abstract1">
-                <p>Abstract: post.abstract </p>
+                <p>Abstract: {{post.abstract}} </p>
             </div>
-            <p>Author(s): post.Authors</p>
-            <p>Published in: post.venue</p>
-            <p>Date: post.date</p>
+            <p>Author(s): {{post.Authors}}</p>
+            <p>Published in: {{post.venue}}</p>
+            <p>Date: {{post.date}}</p>
         </div>
   </div>
 {% endfor %}
