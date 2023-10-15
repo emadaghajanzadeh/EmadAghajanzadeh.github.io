@@ -22,10 +22,9 @@ author_profile: true
             .publication h2 {
                 margin: 0;
                 cursor: pointer; /* Make the title a pointer to indicate it's clickable */
-                color: #007BFF; /* Change the color to indicate it's a link */
+                color: ; /* Change the color to indicate it's a link */
             }
             .publication p {
-                font-style: italic;
             }
 </style>
 
