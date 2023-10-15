@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Emad Aghajanzadeh"
   avatar           : "emad_profile.png"
-  bio              : "Master's Student at <a style='color: black;' href='https://www.uni-hamburg.de/en.html'>University of Hamburg</a>"
+  bio              : "Master's Student at <a style='color: black;' href='https://www.uni-hamburg.de/en.html'>University of Hamburg</a> and part-time researcher at <a style='color: black;' href='https://www.hitec-hamburg.de'>Hamburger Informatik Technologie-Center e.V. (HITeC)</a>""
   location         : "Hamburg, Germany"
-  employer         : "https://www.hitec-hamburg.de"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Zdi2340AAAAJ&hl=en&oi=ao"
   email            :  "emad.aghajanzadeh@studium.uni-hamburg.de"
