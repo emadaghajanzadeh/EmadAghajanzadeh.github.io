@@ -37,7 +37,7 @@ author_profile: true
             <h2>{{ post.title }}</h2>
             <p>Author(s): {{post.Authors}}</p>
             <p>Published in: {{post.venue}}</p>
-            <p>Date: {{post.date}}</p>
+            <p>Date: {{post.year}}</p>
             <div class="abstract" id="abstract1">
                 <p>Abstract: {{post.abstract}} </p>
             </div>
